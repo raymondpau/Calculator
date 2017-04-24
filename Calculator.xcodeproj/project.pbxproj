@@ -54,8 +54,8 @@
 		B768FEC01EAD695B00A58690 /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				B768FEC31EAD695B00A58690 /* ViewController.swift */,
 				B768FEC51EAD695B00A58690 /* Main.storyboard */,
+				B768FEC31EAD695B00A58690 /* ViewController.swift */,
 				B768FED31EAD69DB00A58690 /* Supporting Files */,
 			);
 			path = Calculator;
@@ -312,6 +312,7 @@
 				B768FED21EAD695B00A58690 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
